@@ -5,10 +5,6 @@ var firstname = "Anisha"
 undefined
 var lastname = "Peshwani"
 undefined
-console.concat(firstname,lastname)
-VM533:1 Uncaught TypeError: console.concat is not a function
-    at <anonymous>:1:9
-(anonymous) @ VM533:1
 console.log(firstname+lastname)
 VM639:1 AnishaPeshwani
 undefined
